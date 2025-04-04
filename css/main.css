@@ -448,7 +448,7 @@ header .socials ul li a:hover {
 
 #skills .container div {
   background: var(--card-background);
-  height: 22rem;
+  /* height: 22rem; */
   width: 18rem;
   padding: 1rem;
   margin: 1.5rem;
